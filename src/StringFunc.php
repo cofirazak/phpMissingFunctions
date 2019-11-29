@@ -16,7 +16,7 @@ class StringFunc
      *
      * @return string the input string with first character uppercased
      */
-    public function mbUcFirst(string $str, string $encoding = null): string
+    public static function mbUcFirst(string $str, string $encoding = null): string
     {
         if (is_null($encoding)) {
             $encoding = mb_internal_encoding();
