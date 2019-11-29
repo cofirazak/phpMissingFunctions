@@ -1,6 +1,6 @@
 <?php
 
-namespace missingFunctions;
+namespace Cofirazak\PhpMissingFunctions;
 
 /**
  * Useful string functions missing in php.

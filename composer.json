@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "missingFunctions\\": "src/"
+            "Cofirazak\\PhpMissingFunctions\\": "src"
         }
     }
 }
