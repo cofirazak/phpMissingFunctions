@@ -1,0 +1,17 @@
+{
+  "name": "php-missing-functions",
+  "version": "1.0.0",
+  "description": "Useful functions missing in php.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/cofirazak",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-phpspec": "^0.5.5"
+  },
+  "dependencies": {}
+}
