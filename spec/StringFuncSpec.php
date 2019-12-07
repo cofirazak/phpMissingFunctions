@@ -2,6 +2,7 @@
 
 namespace spec\Cofirazak\PhpMissingFunctions;
 
+use Cofirazak\PhpMissingFunctions\StringFunc;
 use PhpSpec\ObjectBehavior;
 
 class StringFuncSpec extends ObjectBehavior
