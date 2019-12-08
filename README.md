@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://travis-ci.com/cofirazak/phpMissingFunctions"><img src="https://api.travis-ci.com/cofirazak/phpMissingFunctions.svg" alt="Build Status"></a>
+<a href="https://travis-ci.com/cofirazak/phpMissingFunctions"><img src="https://api.travis-ci.com/cofirazak/phpMissingFunctions.svg?branch=master" alt="Build Status"></a>
 <a href="https://packagist.org/packages/cofirazak/php-missing-functions"><img src="https://poser.pugx.org/cofirazak/php-missing-functions/v/stable" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/cofirazak/php-missing-functions"><img src="https://poser.pugx.org/cofirazak/php-missing-functions/downloads" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/cofirazak/php-missing-functions"><img src="https://poser.pugx.org/cofirazak/php-missing-functions/license" alt="License"></a>
@@ -7,7 +7,7 @@
 
 ## About PHP Missing Functions
 
-PHP Missing Functions is a php package that contains useful functions we wish php would have.
+PHP Missing Functions is a php package that contains useful functions that people around the world seek in php and can't find.
 This package assumes to contain very few functions, because PHP has already have nearly all it needs.
 
 ## Contributing
