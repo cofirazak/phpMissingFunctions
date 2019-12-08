@@ -1,8 +1,14 @@
 <p align="center">
-<a href="https://travis-ci.com/cofirazak/phpMissingFunctions"><img src="https://api.travis-ci.com/cofirazak/phpMissingFunctions.svg?branch=master" alt="Build Status"></a>
-<a href="https://packagist.org/packages/cofirazak/php-missing-functions"><img src="https://poser.pugx.org/cofirazak/php-missing-functions/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/cofirazak/php-missing-functions"><img src="https://poser.pugx.org/cofirazak/php-missing-functions/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/cofirazak/php-missing-functions"><img src="https://poser.pugx.org/cofirazak/php-missing-functions/license" alt="License"></a>
+<a href="https://travis-ci.com/cofirazak/phpMissingFunctions">
+  <img src="https://api.travis-ci.com/cofirazak/phpMissingFunctions.svg?branch=master" alt="Build Status"></a>
+<a href="https://packagist.org/packages/cofirazak/php-missing-functions">
+  <img src="https://img.shields.io/packagist/php-v/cofirazak/php-missing-functions" alt="PHP version"></a>  
+<a href="https://packagist.org/packages/cofirazak/php-missing-functions">
+  <img src="https://img.shields.io/packagist/l/cofirazak/php-missing-functions" alt="License"></a>
+<a href="https://packagist.org/packages/cofirazak/php-missing-functions">
+  <img src="https://img.shields.io/packagist/v/cofirazak/php-missing-functions" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/cofirazak/php-missing-functions">
+  <img src="https://img.shields.io/packagist/dt/cofirazak/php-missing-functions" alt="Total Downloads"></a>
 </p>
 
 ## About PHP Missing Functions
