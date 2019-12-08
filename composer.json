@@ -11,7 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require-dev": {
-        "phpspec/phpspec": "6.1.0"
+        "phpspec/phpspec": "6.1.0",
+        "friends-of-phpspec/phpspec-code-coverage": "^4.0@dev"
     },
     "require": {
         "php": "^7.4.0",
