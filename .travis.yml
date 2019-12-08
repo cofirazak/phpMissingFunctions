@@ -1,0 +1,13 @@
+language: php
+
+php:
+  - '7.4'
+
+sudo: false
+
+install:
+  - composer update
+  - npm install
+
+script:
+  - gulp test
