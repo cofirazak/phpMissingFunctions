@@ -9,7 +9,8 @@
             "email": "cofirazak@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "require-dev": {
         "phpspec/phpspec": "6.1.0",
         "friends-of-phpspec/phpspec-code-coverage": "^4.0@dev"
