@@ -6,8 +6,11 @@ php:
 sudo: false
 
 install:
-  - composer update
+  - curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+  - sudo apt install nodejs
+  - npm install --global gulp-cli
   - npm install
+  - composer update
 
 script:
   - gulp test
