@@ -16,6 +16,12 @@
 PHP Missing Functions is a php package that contains useful functions that people around the world seek in php and can't find.
 This package assumes to contain very few functions, because PHP has already have nearly all it needs.
 
+## Installation
+
+```zsh
+composer require cofirazak/php-missing-functions
+```
+
 ## Usage
 
 ```php
@@ -27,7 +33,6 @@ $test_str = 'тест строки';
 $result = StringFunc::mbUcFirst($test_str);
 var_dump($result); // Outputs: 'Тест строки'
 ```
-
 
 ## Contributing
 
