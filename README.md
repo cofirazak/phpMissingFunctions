@@ -23,7 +23,7 @@ If you have any ideas regarding to this package, please feel free to start an is
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Rodrigues da Silva via [cofirazak@gmail.com](mailto:cofirazak@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within phpMissingFunctions, please send an e-mail to Rodrigues da Silva via [cofirazak@gmail.com](mailto:cofirazak@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
