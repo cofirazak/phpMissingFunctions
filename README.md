@@ -16,6 +16,19 @@
 PHP Missing Functions is a php package that contains useful functions that people around the world seek in php and can't find.
 This package assumes to contain very few functions, because PHP has already have nearly all it needs.
 
+## Usage
+
+```php
+require __DIR__ . '/../vendor/autoload.php';
+
+use Cofirazak\PhpMissingFunctions\StringFunc;
+
+$test_str = 'тест строки';
+$result = StringFunc::mbUcFirst($test_str);
+var_dump($result); // Outputs: 'Тест строки'
+```
+
+
 ## Contributing
 
 Thank you for considering contributing to the PHP Missing Functions!
